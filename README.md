@@ -1,4 +1,4 @@
-# tWhat devices to use for mobile testing and how to them set up?
+# What devices to use for mobile testing and how to them set up?
 
 ### Version 1
 
